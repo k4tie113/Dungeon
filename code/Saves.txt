@@ -1,0 +1,21 @@
+hello there:2!sword,shotgun!150;12*25&../images/soldier-left.png$../images/soldier-right.png
+hello there:3!sword,shotgun,ak47!380;33*64&../images/soldier-left.png$../images/soldier-right.png
+hello there:4
+lol:2!sword,shotgun!70;11*18&../images/male-left.png$../images/male-right.png
+lol:3!sword,shotgun,ak47!410;34*66&../images/male-left.png$../images/male-right.png
+obiwan:2!sword,shotgun!40;11*18&../images/female-left.png$../images/female-right.png
+obiwan:3!sword,shotgun,ak47!180;30*51&../images/female-left.png$../images/female-right.png
+Katie:2!sword,shotgun,minigun!40;11*18&../images/ninja-left.png$../images/ninja-right.pngkatie:3!sword,shotgun,minigun!1030;32*50&../images/ninja-left.png$../images/ninja-right.png
+kl:2!sword,shotgun!190;12*16&../images/ninja-left.png$../images/ninja-right.png
+kl:3!sword,shotgun,ak47!450;33*61&../images/ninja-left.png$../images/ninja-right.png
+julie:2!sword,shotgun!130;12*25&../images/female-left.png$../images/female-right.png
+JuliE:3!sword,shotgun,ak47!360;33*64&../images/female-left.png$../images/female-right.png
+abcd:2!sword,shotgun!90;11*22&../images/male-left.png$../images/male-right.png
+abcd:3!sword,shotgun,ak47!310;32*62&../images/male-left.png$../images/male-right.png
+llllll:2!sword,shotgun!50;11*15&../images/ninja-left.png$../images/ninja-right.png
+llllll:3!sword,shotgun,ak47!20;32*49&../images/ninja-left.png$../images/ninja-right.png
+dead guy:2!sword,shotgun!140;12*20&../images/female-left.png$../images/female-right.png
+dead guy:3!sword,shotgun,minigun!60;36*88&../images/female-left.png$../images/female-right.png
+Hello:2!sword,ak47!0;15*49&../images/female-left.png$../images/female-right.png
+Hello:3!sword,ak47,minigun!90;41*127&../images/female-left.png$../images/female-right.png
+Hello:4
