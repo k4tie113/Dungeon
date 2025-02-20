@@ -1,5 +1,5 @@
 # Dungeon
-"Dungeon of the Dead" - A zombie apocalypse themed dungeon crawler made using Java for my high school programming class.
+"Dungeon of the Dead" - A zombie apocalypse themed dungeon crawler made using Java for my high school programming class. Fight your way through hordes of zombies! Earn coins by defeating zombies, and use them to upgrade your weapons.
 
 HOW TO PLAY: 
 1. Go to the /code/java folder in terminal.
